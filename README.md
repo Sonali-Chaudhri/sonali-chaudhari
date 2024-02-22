@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://www.google.com/search?q=banner+github&tbm=isch&hl=en-GB&chips=q:banner+github,g_1:animated:baLaE0Lmo9s%3D,online_chips:gif:clM7j31-NYI%3D,online_chips:aws:TfWT6AeqYr4%3D&client=firefox-b-d&sa=X&ved=2ahUKEwjOlN-y776EAxU8cmwGHfdGBjkQ4lYoCXoECAEQSQ&biw=1523&bih=698#imgrc=hG9Wqf67TP1hgM&imgdii=2cDstkyrK89TEM)]
 
 <h1 align="center">Hi 👋, I'm Sonali Chaudhri</h1>
 <h3 align="center">A passionate fullstack Devloper</h3>
