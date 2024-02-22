@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sonali Chaudhri</h1>
 <h3 align="center">A passionate fullstack Devloper</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=developer+coding+girl+gif&tbm=isch&hl=en-GB&chips=q:developer+coding+girl+gif,online_chips:web+developer:-18Vq6DklbM%3D&client=firefox-b-d&sa=X&ved=2ahUKEwiikd3F676EAxUyUGwGHcqkBiQQ4lYoAXoECAEQNQ&biw=1523&bih=698#imgrc=Ayf1SYgO6GGXAM">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=developer+coding+girl+gif&tbm=isch&hl=en-GB&chips=q:developer+coding+girl+gif,online_chips:web+developer:-18Vq6DklbM%3D&client=firefox-b-d&sa=X&ved=2ahUKEwiikd3F676EAxUyUGwGHcqkBiQQ4lYoAXoECAEQNQ&biw=1523&bih=698#imgrc=Ayf1SYgO6GGXAM"/>
 
 
 - 🌱 I’m currently learning **Javascript,HTML,CSS,ReatJs,NodeJs,MongoDB**
